@@ -1,0 +1,22 @@
+.contenedor-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.campo {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+
+#previsualizacionIframe {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+  border-width: 5%;
+  height: 100%;
+  width: 100%;
+}

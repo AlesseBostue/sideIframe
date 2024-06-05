@@ -1,0 +1,14 @@
+* {
+  background-color: #1c1b22;
+  color: #fff;
+}
+
+.title h2 {
+  display: flex;
+  justify-content: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#contenedor-previsualizacion span{
+  margin-left: 0.5rem
+}
